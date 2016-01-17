@@ -23,7 +23,7 @@ Basically
 -------------------------------------------
     mvn install -DskipTests=false
     
-    A collection of Postman request can be found in the root folder of the project (transaction-service-request.json.postman_collection)
+A collection of Postman request can be found in the root folder of the project (transaction-service-request.json.postman_collection)
     
 The application is available on port 8080.
 
